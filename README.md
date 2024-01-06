@@ -4,7 +4,8 @@
 
 ![image](https://github.com/yash131120/Resume-Builder/assets/139432375/815c217a-8139-49d7-9019-6cfa84b6dd01)
 
-![image](https://github.com/yash131120/Resume-Builder/assets/139432375/cc10b9c8-afcc-4643-8032-f4badbd9cfd5)
+
+
 
 <p>Themes</p>
 
